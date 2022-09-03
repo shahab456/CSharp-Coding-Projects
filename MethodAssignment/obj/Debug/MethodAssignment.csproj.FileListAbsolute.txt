@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\MethodAssignment\obj\Debug\MethodAssignment.pdb
