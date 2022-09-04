@@ -1,0 +1,12 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\CodeFirstSample.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\CodeFirstSample.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\EntityFramework.dll
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\EntityFramework.xml
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CopyComplete
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\CodeFirstSample\obj\Debug\CodeFirstSample.pdb
