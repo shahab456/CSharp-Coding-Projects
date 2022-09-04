@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\ClassMethod\bin\Debug\ClassMethod.exe.config
+C:\Users\Mehrdad\source\repos\ClassMethod\bin\Debug\ClassMethod.exe
+C:\Users\Mehrdad\source\repos\ClassMethod\bin\Debug\ClassMethod.pdb
+C:\Users\Mehrdad\source\repos\ClassMethod\obj\Debug\ClassMethod.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\ClassMethod\obj\Debug\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ClassMethod\obj\Debug\ClassMethod.exe
+C:\Users\Mehrdad\source\repos\ClassMethod\obj\Debug\ClassMethod.pdb

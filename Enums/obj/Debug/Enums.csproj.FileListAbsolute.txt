@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\bin\Debug\Enums.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\bin\Debug\Enums.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\bin\Debug\Enums.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\obj\Debug\Enums.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Enums\obj\Debug\Enums.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\obj\Debug\ClassesandMethods2.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\bin\Debug\ClassesandMethods2.exe.config
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\bin\Debug\ClassesandMethods2.exe
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\bin\Debug\ClassesandMethods2.pdb
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\obj\Debug\ClassesandMethods2.exe
+C:\Users\Mehrdad\source\repos\ClassesandMethods2\obj\Debug\ClassesandMethods2.pdb

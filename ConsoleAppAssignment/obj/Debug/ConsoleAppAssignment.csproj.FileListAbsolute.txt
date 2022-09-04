@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+C:\Users\Mehrdad\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb

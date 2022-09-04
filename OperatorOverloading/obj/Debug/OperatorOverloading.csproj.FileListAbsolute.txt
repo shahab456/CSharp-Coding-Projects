@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

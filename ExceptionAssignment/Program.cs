@@ -36,7 +36,7 @@ namespace ExceptionAssignment
                 Console.WriteLine(except.Message);
             }
             finally { 
-                Console.WriteLine("Thanks!");
+                Console.WriteLine("Job Finished. Thanks!");
             }
             Console.ReadKey();
         }

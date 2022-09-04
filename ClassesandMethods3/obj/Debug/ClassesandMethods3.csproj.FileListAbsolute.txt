@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\bin\Debug\ClassesandMethods3.exe.config
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\bin\Debug\ClassesandMethods3.exe
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\bin\Debug\ClassesandMethods3.pdb
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\obj\Debug\ClassesandMethods3.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\obj\Debug\ClassesandMethods3.exe
+C:\Users\Mehrdad\source\repos\ClassesandMethods3\obj\Debug\ClassesandMethods3.pdb

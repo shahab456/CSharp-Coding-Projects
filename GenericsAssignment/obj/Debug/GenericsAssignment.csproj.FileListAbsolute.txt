@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\GenericsAssignment\obj\Debug\GenericsAssignment.pdb

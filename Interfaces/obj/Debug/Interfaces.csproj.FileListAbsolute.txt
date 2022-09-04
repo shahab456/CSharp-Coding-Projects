@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\Interfaces\obj\Debug\Interfaces.pdb
