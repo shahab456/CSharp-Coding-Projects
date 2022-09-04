@@ -11,6 +11,7 @@ namespace CodeFirstSample
         static void Main(string[] args)
         {
             Student student1 = new Student();
+            student1.studentId = 1;
             student1.firstName = "Howard";
             student1.lastName = "Watson";
             PersonContext ctxt = new PersonContext();
