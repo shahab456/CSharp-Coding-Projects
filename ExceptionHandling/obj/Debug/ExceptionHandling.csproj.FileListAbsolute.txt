@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

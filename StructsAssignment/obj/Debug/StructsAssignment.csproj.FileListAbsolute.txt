@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\bin\Debug\StructsAssignment.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\bin\Debug\StructsAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\bin\Debug\StructsAssignment.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\obj\Debug\StructsAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\StructsAssignment\obj\Debug\StructsAssignment.pdb

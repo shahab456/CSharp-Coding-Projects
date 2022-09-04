@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb

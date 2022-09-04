@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\bin\Debug\AdditionalFeatures.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\obj\Debug\AdditionalFeatures.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\AdditionalFeatures\obj\Debug\AdditionalFeatures.pdb

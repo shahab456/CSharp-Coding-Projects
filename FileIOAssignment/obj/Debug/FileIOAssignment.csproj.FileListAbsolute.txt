@@ -1,0 +1,6 @@
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\Mehrdad\source\repos\CSharp-Coding-Projects\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
